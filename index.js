@@ -27,7 +27,6 @@ const imgName= [
   'Espace carré 2',
   'Espace collaborateurs 1',
   'Espace collaborateurs 2',
-  'VUE',
 ]
 
 let num = 0
