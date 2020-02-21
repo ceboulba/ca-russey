@@ -14,7 +14,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1582322511/cafc-russey/cafc-russey-09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582320231/cafc-russey/cafc-russey-04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582320234/cafc-russey/cafc-russey-03.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582323354/cafc-russey/cafc-russey-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582323566/cafc-russey/cafc-russey-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582306650/cafc-russey/cafc-russey-05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582303656/cafc-russey/cafc-russey-06.jpg',
 ]
