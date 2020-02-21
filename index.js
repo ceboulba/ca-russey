@@ -71,7 +71,7 @@ var createScene = function () {
 const scene = createScene()
 
 const check = () => {
-  num <= 3 ?( () => {
+  num <= 2 ?( () => {
     canvas.classList.add('hide');
     imgBox.classList.remove('hide');
     viewType.classList.add('hide')
@@ -82,7 +82,7 @@ const check = () => {
       imgBox.classList.add('hide')
     })()
   // scene.render()
-  num <= 1 ? imgView.src = imgs[num] : null
+  num <= 2 ? imgView.src = imgs[num] : null
   //num === 1 ? imgView.src = imgs[1] : null
   //num === 2 ? imgView.src = imgs[2] : null
 }
