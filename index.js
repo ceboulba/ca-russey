@@ -9,9 +9,9 @@ const imageName = document.querySelector('.imageName')
 console.log(imageName.innerHTML)
 
 const imgs = [
-  'https://res.cloudinary.com/archipicture/image/upload/v1580795988/ca-jussey/axo-RDC-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580795982/ca-jussey/axo-RDC-01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580797168/ca-jussey/axo-Etage-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582277583/cafc-russey/cafc-russey-07.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582277580/cafc-russey/cafc-russey-08.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582277582/cafc-russey/cafc-russey-09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580796545/ca-jussey/axo-Etage-01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580765411/ca-jussey/cam01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580848044/ca-jussey/cam08.jpg',
@@ -97,8 +97,6 @@ const check = () => {
   num === 0 ? imgView.src = imgs[0] : null
   num === 1 ? imgView.src = imgs[1] : null
   num === 2 ? imgView.src = imgs[2] : null
-  num === 3 ? imgView.src = imgs[3] : null
-  num === 9 ? imgView.src = imgs[9] : null
 }
 
 check()
