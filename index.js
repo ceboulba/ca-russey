@@ -83,8 +83,8 @@ const check = () => {
       imgBox.classList.add('hide')
     })()
   // scene.render()
-  num === 0 ? imgView.src = imgs[0] : null
-  num === 1 ? imgView.src = imgs[1] : null
+  num < 2 ? imgView.src = imgs[num] : null
+  //num === 1 ? imgView.src = imgs[1] : null
   //num === 2 ? imgView.src = imgs[2] : null
 }
 
