@@ -20,14 +20,14 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1582277586/cafc-russey/cafc-russey-06.jpg',
 ]
 const imgName= [
-  'RDC vue axo 1',
-  'RDC vue axo 2',
-  'RDC vue axo 3',
-  'VUE',
-  'VUE',
-  'VUE',
-  'VUE',
-  'VUE',
+  'Axo 1',
+  'Axo 2',
+  'Axo 3',
+  'Espace libre service bancaire',
+  'Espace carré 1',
+  'Espace carré 2',
+  'Espace collaborateurs 1',
+  'Espace collaborateurs 2',
   'VUE',
 ]
 
