@@ -12,11 +12,11 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1582277583/cafc-russey/cafc-russey-07.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582277580/cafc-russey/cafc-russey-08.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582277582/cafc-russey/cafc-russey-09.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582302350/cafc-russey/cafc-russey-04.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582303007/cafc-russey/cafc-russey-04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582302743/cafc-russey/cafc-russey-03.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582298107/cafc-russey/cafc-russey-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582277584/cafc-russey/cafc-russey-05.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582277586/cafc-russey/cafc-russey-06.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1582303656/cafc-russey/cafc-russey-06.jpg',
 ]
 const imgName= [
   'Axo 1',
