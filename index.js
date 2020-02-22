@@ -19,7 +19,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1582303656/cafc-russey/cafc-russey-06.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582382642/cafc-russey/cafc-russey-open.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582386387/cafc-russey/cafc-russey-close.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582380935/cafc-russey/cafc-russey-tisanerie.jpg'
+  'https://res.cloudinary.com/archipicture/image/upload/v1582394932/cafc-russey/cafc-russey-tisanerie.jpg'
 ]
 const imgName= [
   'Axo 1',
@@ -30,8 +30,8 @@ const imgName= [
   'Espace carré 2',
   'Espace collaborateurs 1',
   'Espace collaborateurs 2',
-  'porte sortie collaborateurs coulissante ouverte',
-  'porte sortie collaborateurs coulissante fermé',
+  'Agence ouverte',
+  'Agence fermée',
   'Tisanerie'
 ]
 
