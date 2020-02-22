@@ -17,7 +17,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1582323566/cafc-russey/cafc-russey-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582306650/cafc-russey/cafc-russey-05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582303656/cafc-russey/cafc-russey-06.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582377937/cafc-russey/cafc-russey-tisanerie.jpg'
+  'https://res.cloudinary.com/archipicture/image/upload/v1582380935/cafc-russey/cafc-russey-tisanerie.jpg'
 ]
 const imgName= [
   'Axo 1',
