@@ -30,8 +30,8 @@ const imgName= [
   'Espace carré 2',
   'Espace collaborateurs 1',
   'Espace collaborateurs 2',
-  'Agence ouverte',
-  'Agence fermée',
+  'Porte collaborateurs / Agence ouverte',
+  'Porte collaborateurs / Agence fermée',
   'Tisanerie'
 ]
 
